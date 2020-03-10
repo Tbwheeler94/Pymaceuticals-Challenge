@@ -1,6 +1,6 @@
-## Pymaceuticals-Challenge
+# Pymaceuticals-Challenge
 
-# In this script you will find the following 
+## In this script you will find the following 
 
 1. A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
@@ -23,3 +23,6 @@
 
 
 8. The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. The linear regression model plotted on top of the previous scatter plot.
+
+
+
